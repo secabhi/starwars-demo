@@ -1,7 +1,7 @@
 {
   "name": "starwars-demo",
   "version": "1.0.0",
-  "description": "Get random Star Wars names",
+  "description": "Get random Star Wars demo",
   "main": "dist/index.js",
   "scripts": {
     "prebuild": "rimraf dist",
